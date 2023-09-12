@@ -21,12 +21,14 @@ function App() {
                     buttonText="to the collection"
                     buttonVariant="primary"
                     clickHandler={onclick}
+                    buttonDisabled={false}
                 />
                 <Button
                     buttonType="button"
                     buttonText="shop all bags"
                     buttonVariant="primary"
                     clickHandler={onclick}
+                    buttonDisabled={false}
                 />
                 <Button
                     buttonType="button"

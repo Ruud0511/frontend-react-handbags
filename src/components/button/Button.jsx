@@ -1,12 +1,12 @@
 import React from "react";
 
-function Button ({buttonText, buttonType = "button", buttonVariant}) {
+function Button ({buttonText, buttonType = "button", buttonVariant, buttonDisabled}) {
     return (
         <button
             type={buttonType}
             className={`${buttonVariant}-primary`}
-            onClick={() => alert(`${buttonText}`)}
-            // disabled={buttonDisabled}
+            onClick={() => console.log(`${buttonText}`)}
+            disabled={buttonDisabled}
 
         >
             {buttonText}
