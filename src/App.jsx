@@ -65,8 +65,8 @@ function App() {
             <footer>
                 <section>
                     <Tile
-                        tileTitle="The Brand"
-                        textBrandStory="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta dignissimos quia soluta veniam. Distinctio dolores doloribus error fugit illum iste, magnam natus, nostrum provident ratione soluta suscipit temporibus vitae voluptate."
+                        tileTitle="The brand"
+                        textBrandStory="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex, exercitationem nostrum praesentium provident ratione recusandae reiciendis. Earum fugit odit saepe. Alias atque beatae fugiat ipsum ratione repellendus similique, unde vel."
                     />
                 </section>
                 <section>
@@ -82,7 +82,7 @@ function App() {
                 <section>
                     <Tile
                         tileTitle="Our Story"
-                        textBrandStory="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda deleniti deserunt dicta eos ex excepturi facilis illo illum in non possimus quaerat qui repellat rerum tempora ullam, veniam. Inventore, nemo?"
+                        textBrandStory="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet animi earum veniam! Accusamus adipisci dolor, ea eaque enim, explicabo fugit incidunt iste maxime molestias nostrum quas ratione reprehenderit sit voluptate."
                     />
                 </section>
             </footer>
